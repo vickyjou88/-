@@ -1,5 +1,6 @@
 
 
+python_version == 3.10
 numpy
 streamlit
 streamlit_webrtc
@@ -10,3 +11,4 @@ plotly
 mplfinance
 shioaji
 pynacl
+
